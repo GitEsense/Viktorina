@@ -1,5 +1,5 @@
 ﻿Random rnd = new Random();
-int value = rnd.Next(0, 100);
+int value = rnd.Next(0, 50);
 int number;
 int count = 0;
 
