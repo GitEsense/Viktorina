@@ -22,7 +22,7 @@ do
     }
     else
     {
-        Console.WriteLine("Ответ неправильный, попробуйте снова!"); sss
+        Console.WriteLine("Ответ неправильный, попробуйте снова!");
     }
     Console.WriteLine("");
 } while (value != number);
